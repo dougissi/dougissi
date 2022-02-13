@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @dougissi
-My name is Doug Issichopoulos, and I am currently a Data Scientist at [Humanyze](www.humanyze.com).
+My name is Doug Issichopoulos, and I am currently a Data Scientist at [Humanyze](https://www.humanyze.com).
 My background is in math (BS Mathematics, Stanford '12), so I strive to
 write code that resembles a good math proof: 
 easy to read, elegant, and water-tight.
