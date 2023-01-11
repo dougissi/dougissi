@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @dougissi
-My name is Doug Issichopoulos, and I am a Senior Software Engineer at <a href="https://www.humanyze.com" target="_blank">Humanyze</a>.
+My name is Doug Issichopoulos, and I am a Computer Science master's student at UIUC and formerly a Senior Software Engineer at <a href="https://www.humanyze.com" target="_blank">Humanyze</a>.
 My background is in math (BS Mathematics, Stanford '12), so I strive to
 write code that resembles a good math proof: 
 easy to read, elegant, and water-tight.
